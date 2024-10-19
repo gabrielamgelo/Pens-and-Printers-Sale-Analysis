@@ -27,7 +27,7 @@ Folder Structure:
     
     Written Report: Jupyter notebooks with step-by-step data cleaning, analysis, and visualizations.
     
-    Presentation: A presentation and overview of the project
+    Presentation: A presentation and overview of the project.
 
 Tech Stack:
 
