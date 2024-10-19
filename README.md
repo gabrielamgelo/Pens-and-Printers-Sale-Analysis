@@ -1,4 +1,5 @@
-This repository contains a data-driven analysis project aimed at identifying the most efficient sales strategy for a new office stationery product line. The business tested three approaches: Email, Call, and a combination of both (Email + Call), and this project analyzes the performance of each method in terms of revenue generated and effort required.
+This repository contains a data-driven analysis project aimed at identifying the most efficient sales strategy for a new office stationery product line. The business tested three approaches: Email, Call, and a combination of both (Email + Call), and this project analyzes the performance of each method in terms of revenue generated and effort required. The dataset has 15000 rows and 8 columns.
+
 Project Overview:
 
     Objective: To determine which sales method yields the highest revenue and optimize resource allocation for future campaigns.
