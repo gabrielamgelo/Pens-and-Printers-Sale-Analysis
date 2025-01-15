@@ -1,21 +1,21 @@
 This repository contains a data-driven analysis project aimed at identifying the most efficient sales strategy for a new office stationery product line. The business tested three approaches: Email, Call, and a combination of both (Email + Call), and this project analyzes the performance of each method in terms of revenue generated and effort required. The dataset has 15000 rows and 8 columns.
 
 # Project Overview:
-___
+
 
 ## Objective: To determine which sales method yields the highest revenue and optimize resource allocation for future campaigns.
     
 ## Data Source##: Customer sales data over a 6-week campaign period, with variables including sales method, revenue, customer engagement, and more.
     
 ## Key Insights:
-___
+
 
 Comparison of total and average revenue per sales method.
 Analysis of revenue per customer and overall effectiveness.
 Recommendations for prioritizing the most efficient strategies.
 
-##Technologies Used:
-___
+## Technologies Used:
+
 
     Language: Python
     Python Libraries:
@@ -33,7 +33,7 @@ ___
 **Presentation**: A presentation and overview of the project.
 
 ## Key Features:
-___
+
 
 **Data Cleaning and Validation**: Handling missing values and correcting inconsistencies in sales method categories.
     
