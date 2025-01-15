@@ -36,19 +36,13 @@ Recommendations for prioritizing the most efficient strategies.
 ## Key Features:
 
 
-**Data Cleaning and Validation**: Handling missing values and correcting inconsistencies in sales method categories.
+**Data Cleaning and Validation**: Handling missing values and correcting inconsistencies.
     
 **Exploratory Data Analysis (EDA)**: Visualizations that reveal revenue trends across different methods.
     
 **Business Metric Definition**: Calculation of key performance indicators like revenue per customer and strategy efficiency.
     
 **Actionable Recommendations**: Insights into which sales approach the business should continue using to maximize revenue with minimal effort.
-
-## **Part 1**: **Data Cleaning and Validation**:
-
-
-
-
 
 ## How This Project Helps:
 
