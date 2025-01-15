@@ -22,7 +22,7 @@ Recommendations for prioritizing the most efficient strategies.
 
     Language: Python
     Python Libraries:
-    Pandas: Used for data, cleaning, manipulation and analysis
+    Pandas: Used for data cleaning, manipulation and analysis
     Matplotlib & Seaborn: Used for visualizations.
     Jupyter Notebook: Used or interactive data exploration.
 
