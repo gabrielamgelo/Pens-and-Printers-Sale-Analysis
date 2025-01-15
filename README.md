@@ -1,12 +1,14 @@
 This repository contains a data-driven analysis project aimed at identifying the most efficient sales strategy for a new office stationery product line. The business tested three approaches: Email, Call, and a combination of both (Email + Call), and this project analyzes the performance of each method in terms of revenue generated and effort required. The dataset has 15000 rows and 8 columns.
 
+The Jupyter Notebook file contains all the information and descriptions of what was done and discovered in each step.
+
 # Project Overview:
 
 
 **Objective**: To determine which sales method yields the highest revenue and optimize resource allocation for future campaigns.
     
 **Data Source** Customer sales data over a 6-week campaign period, with variables including sales method, revenue, customer engagement, and more. Provided by Datacamp.
-    
+
 
 ## Key Insights:
 
@@ -27,9 +29,9 @@ Recommendations for prioritizing the most efficient strategies.
 ## Project Structure:
 
 
-**product_sales**: Contains the cleaned dataset used for analysis.
+**product_sales**: Contains the dataset used for analysis.
     
-**Written Report**: Jupyter notebooks with step-by-step data cleaning, analysis, and visualizations.
+**Written Report**: Jupyter notebook with step-by-step data cleaning, analysis, and visualizations.
     
 **Presentation**: A presentation and overview of the project.
 
