@@ -1,42 +1,50 @@
 This repository contains a data-driven analysis project aimed at identifying the most efficient sales strategy for a new office stationery product line. The business tested three approaches: Email, Call, and a combination of both (Email + Call), and this project analyzes the performance of each method in terms of revenue generated and effort required. The dataset has 15000 rows and 8 columns.
 
-Project Overview:
+#Project Overview:
+___
 
-    Objective: To determine which sales method yields the highest revenue and optimize resource allocation for future campaigns.
+##Objective: To determine which sales method yields the highest revenue and optimize resource allocation for future campaigns.
     
-    Data Source: Customer sales data over a 6-week campaign period, with variables including sales method, revenue, customer engagement, and more.
+##Data Source##: Customer sales data over a 6-week campaign period, with variables including sales method, revenue, customer engagement, and more.
     
-    Key Insights:
-        
-        Comparison of total and average revenue per sales method.
-        Analysis of revenue per customer and overall effectiveness.
-        Recommendations for prioritizing the most efficient strategies.
+##Key Insights:
+___
 
-Key Features:
+Comparison of total and average revenue per sales method.
+Analysis of revenue per customer and overall effectiveness.
+Recommendations for prioritizing the most efficient strategies.
 
-    Data Cleaning and Validation: Handling missing values and correcting inconsistencies in sales method categories.
-    
-    Exploratory Data Analysis (EDA): Visualizations that reveal revenue trends across different methods.
-    
-    Business Metric Definition: Calculation of key performance indicators like revenue per customer and strategy efficiency.
-    
-    Actionable Recommendations: Insights into which sales approach the business should continue using to maximize revenue with minimal effort.
+##Technologies Used:
+___
 
-Folder Structure:
+    Language: Python
+    Python Libraries:
+    Pandas: Used for data, cleaning, manipulation and analysis
+    Matplotlib & Seaborn: Used for visualizations.
+    Jupyter Notebook: Used or interactive data exploration.
 
-    product_sales: Contains the cleaned dataset used for analysis.
-    
-    Written Report: Jupyter notebooks with step-by-step data cleaning, analysis, and visualizations.
-    
-    Presentation: A presentation and overview of the project.
+##Project Structure:
+___
 
-Tech Stack:
+**product_sales**: Contains the cleaned dataset used for analysis.
+    
+**Written Report**: Jupyter notebooks with step-by-step data cleaning, analysis, and visualizations.
+    
+**Presentation**: A presentation and overview of the project.
 
-    Python: Data manipulation and analysis using Pandas.
+##Key Features:
+___
+
+**Data Cleaning and Validation**: Handling missing values and correcting inconsistencies in sales method categories.
     
-    Matplotlib & Seaborn: For visualizations.
+**Exploratory Data Analysis (EDA)**: Visualizations that reveal revenue trends across different methods.
     
-    Jupyter Notebook: For interactive data exploration.
+**Business Metric Definition**: Calculation of key performance indicators like revenue per customer and strategy efficiency.
+    
+**Actionable Recommendations**: Insights into which sales approach the business should continue using to maximize revenue with minimal effort.
+
+**Data Cleaning and Validation**:
+
 
 How This Project Helps:
 
