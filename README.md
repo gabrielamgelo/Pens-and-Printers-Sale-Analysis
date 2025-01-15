@@ -1,13 +1,13 @@
 This repository contains a data-driven analysis project aimed at identifying the most efficient sales strategy for a new office stationery product line. The business tested three approaches: Email, Call, and a combination of both (Email + Call), and this project analyzes the performance of each method in terms of revenue generated and effort required. The dataset has 15000 rows and 8 columns.
 
-#Project Overview:
+# Project Overview:
 ___
 
-##Objective: To determine which sales method yields the highest revenue and optimize resource allocation for future campaigns.
+## Objective: To determine which sales method yields the highest revenue and optimize resource allocation for future campaigns.
     
-##Data Source##: Customer sales data over a 6-week campaign period, with variables including sales method, revenue, customer engagement, and more.
+## Data Source##: Customer sales data over a 6-week campaign period, with variables including sales method, revenue, customer engagement, and more.
     
-##Key Insights:
+## Key Insights:
 ___
 
 Comparison of total and average revenue per sales method.
@@ -23,7 +23,7 @@ ___
     Matplotlib & Seaborn: Used for visualizations.
     Jupyter Notebook: Used or interactive data exploration.
 
-##Project Structure:
+## Project Structure:
 ___
 
 **product_sales**: Contains the cleaned dataset used for analysis.
@@ -32,7 +32,7 @@ ___
     
 **Presentation**: A presentation and overview of the project.
 
-##Key Features:
+## Key Features:
 ___
 
 **Data Cleaning and Validation**: Handling missing values and correcting inconsistencies in sales method categories.
@@ -43,9 +43,9 @@ ___
     
 **Actionable Recommendations**: Insights into which sales approach the business should continue using to maximize revenue with minimal effort.
 
-**Data Cleaning and Validation**:
+## **Part 1**: **Data Cleaning and Validation**:
 
 
-How This Project Helps:
+## How This Project Helps:
 
 This project helps the business optimize sales efforts, reduce unnecessary resource use, and improve decision-making by focusing on strategies that bring the highest returns based on real data.
