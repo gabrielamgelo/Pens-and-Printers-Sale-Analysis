@@ -5,8 +5,9 @@ This repository contains a data-driven analysis project aimed at identifying the
 
 ## Objective: To determine which sales method yields the highest revenue and optimize resource allocation for future campaigns.
     
-## Data Source##: Customer sales data over a 6-week campaign period, with variables including sales method, revenue, customer engagement, and more.
+## Data Source: Customer sales data over a 6-week campaign period, with variables including sales method, revenue, customer engagement, and more. Provided by Datacamp.
     
+
 ## Key Insights:
 
 
@@ -24,7 +25,7 @@ Recommendations for prioritizing the most efficient strategies.
     Jupyter Notebook: Used or interactive data exploration.
 
 ## Project Structure:
-___
+
 
 **product_sales**: Contains the cleaned dataset used for analysis.
     
@@ -44,6 +45,7 @@ ___
 **Actionable Recommendations**: Insights into which sales approach the business should continue using to maximize revenue with minimal effort.
 
 ## **Part 1**: **Data Cleaning and Validation**:
+
 
 
 ## How This Project Helps:
