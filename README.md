@@ -1,6 +1,6 @@
 This repository contains a data-driven analysis project aimed at identifying the most efficient sales strategy for a new office stationery product line. The business tested three approaches: Email, Call, and a combination of both (Email + Call), and this project analyzes the performance of each method in terms of revenue generated and effort required. The dataset has 15000 rows and 8 columns.
 
-## *The Jupyter Notebook file contains all the information and descriptions of what was done and discovered in each step.*
+## *The Jupyter Notebook 'Written Report' contains all the information and descriptions of what was done and discovered in each step.*
 
 # Project Overview:
 
