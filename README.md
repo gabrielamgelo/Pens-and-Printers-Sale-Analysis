@@ -15,7 +15,9 @@ This repository contains a data-driven analysis project aimed at identifying the
 
 Comparison of total and average revenue per sales method.
 
-Analysis of revenue per customer and overall effectiveness.
+Analysis of revenue per customer and overall effectiveness of the sales methods.
+
+How each sales methods performed through the weeks.
 
 The creation of a business metric (revenue per hour of sales effort) to evaluate sales efficiency.
 
