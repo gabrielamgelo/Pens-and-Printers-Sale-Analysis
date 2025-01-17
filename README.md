@@ -14,9 +14,13 @@ This repository contains a data-driven analysis project aimed at identifying the
 
 
 Comparison of total and average revenue per sales method.
+
 Analysis of revenue per customer and overall effectiveness.
+
 Recommendations for prioritizing the most efficient strategies.
+
 An estimated increase of 707% in revenue could happen if the recommendations are applied.
+
 
 ## Technologies Used:
 
