@@ -17,9 +17,11 @@ Comparison of total and average revenue per sales method.
 
 Analysis of revenue per customer and overall effectiveness.
 
-Recommendations for prioritizing the most efficient strategies.
+The creation of a business metric (revenue per hour of sales effort) to evaluate sales efficiency.
 
-An estimated increase of 707% in revenue could happen if the recommendations are applied.
+Recommendations for prioritizing the most efficient strategies. 
+
+A simulated result showing that if the recommendations are applied, the company could have an estimated increase of 707% in revenue.
 
 
 ## Technologies Used:
