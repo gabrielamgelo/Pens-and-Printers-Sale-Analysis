@@ -1,6 +1,13 @@
 This repository contains a data-driven analysis project aimed at identifying the most efficient sales strategy for a new office stationery product line. The business tested three approaches: Email, Call, and a combination of both (Email + Call), and this project analyzes the performance of each method in terms of revenue generated and effort required. The dataset has 15000 rows and 8 columns.
 
-### *The Jupyter Notebook 'Written Report' contains all the information and descriptions of what was done and discovered in each step.*
+Main insights: 
+- The Email sales method was the method to reach the most customers, with 7465 customers in total, approximately 50% of all 14998 customers. The Call method comes in second place with 4961 customers, 33% of all customers. And in third is the Email + Call method which had 2572 customer, 17% of the total.
+- Email + Call, had the best average revenue overall with an average of 183.7 (almost twice as much as the second place), beating the other methods, Email with an average of 97, and Call with an average of 47.6.
+- The total revenue of the Email method is higher than the sum of the other 2 methods combined. The numbers are: Email with a total of 724216.13, Email + Call with 472730.95, and at last, Call with a total of 236391.07 revenue.
+- The Email + Call and Call methods have had consistently increased growth in revenue throughout the weeks, Email + Call with an average increase of +49.3%, Call with +6.8%, different than the Email method, which has seen an average decrease of – 31.8%.
+- The Email + Call method had the best growth in number of customers between the 3 methods, with an average growth of +37.1%, followed by the Call method with a decrease in growth of -4.7%, and then the Email method with an average decrease in growth of -36.1%.
+- The Email method is the most efficient in generating revenue per sales effort, followed by Email + Call and, at last place, the call method which is the least effective method by far.
+- By diverting the hours spent with the Call method equally between the other methods, the total change in revenue could reach an estimated increase of 707%.
 
 # Project Overview:
 
@@ -38,7 +45,7 @@ This repository contains a data-driven analysis project aimed at identifying the
     
 **Actionable Recommendations**: Insights into which sales approach the business should continue using to maximize revenue with minimal effort.
 
-## Key Insights:
+## Insights:
 
 **Total Customers For Each Sales Method:**
 
@@ -108,32 +115,4 @@ With that, we can see that the Email method is the most efficient in generating 
 
 **Summary and Recommendations for prioritizing the most efficient strategies**
 
-This analysis addresses the problem of creating the most revenue with as much efficiency as possible, by prioritizing the most efficient methods By comparing the performance of different sales methods (Email, Call, Email + Call), the business could benefit a lot in the long-term.
 
-Based on the revenue per hour of sales effort metric and on the exploratory analysis, the most appropriate recomendation would be to keep the focus on the Email method which is the most time efficient and has generated the most revenue so far, while keeping track of increases in efficiency of the Email + Call method and diverting the efforts from the Call method to Email + Call, as the Call method compares very poorly to the other methods, demanding way too much time with not as much revenue in result.
-
-Other recommendations to better improve and understand the data:
-
-• Inconsistent values of the sales_method column should be corrected when collecting the data.
-
-• Implement a strategy to identify the reasons as to why there are missing values corresponding to the revenue, and to fill those values if possible.
-
-• More detailed information of the time spent reaching the customer could be gathered and included into a new column on the dataset.
-
-• Create standardized templates of emails to be sent and include the types into a column on the dataset, so we could take a look at what template of email is the most efficient by A/B testing and other methods.
-
-• Explore new methods of reaching out to new customers
-
-• Gather more information about the period of time the client was approached and when the sale was made.
-
-• Gather more information about the client, such as demographics and preferences.
-
-The business could see a lot of improvements by implementing these strategies, as these strategies can increase the amount and quality of insights we can get from the data gathered.
-
-**Estimation if the recommendations are applied**
-
-By diverting the hours spent with the Call method equally between the other methods, the total change in revenue could reach an estimated increase of 707%.
-
-## How This Project Helps:
-
-This project helps the business optimize sales efforts, reduce unnecessary resource use, and improve decision-making by focusing on strategies that bring the highest returns based on real data.
